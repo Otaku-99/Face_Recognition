@@ -20,3 +20,5 @@
 # Output
 
 * Name of the person in front of camera whose face is trained.
+
+# Can also visit for the same :  https://otaku-99.github.io/Face_Recognition/
